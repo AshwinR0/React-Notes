@@ -40,6 +40,9 @@ Don't see them as competitors; see them as different tools for different jobs.
 
 ---
 
+![image](https://namastedev.com/blog/wp-content/uploads/2024/08/read_redux.png)
+
+
 ### 3. Explain Dispatcher.
 
 In the context of Redux, the "dispatcher" is the `dispatch` function. It is the **only way** to trigger a state change.
