@@ -115,6 +115,8 @@
     *   Subject to the same-origin policy.
     *   Like other client-side storage, it is vulnerable to **XSS**. A malicious script can potentially access and manipulate the data. While more secure than cookies for session tokens (as it's not sent automatically), it's still not a secure vault for unencrypted secrets. Encrypt sensitive data before storing it in IndexedDB if absolutely necessary.
 
+![image](https://i.sstatic.net/6EL55.png)
+
 ### Summary Table
 
 | Feature | Cookies | Session Storage | Local Storage | IndexedDB |
